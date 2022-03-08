@@ -1,2 +1,4 @@
 This is the first line of the second text
-New line
+
+
+
